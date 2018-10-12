@@ -4,7 +4,7 @@
         "name": "ts-node",
         "type": "node",
         "request": "launch",
-        "program": "",
+        "program": "/usr/local/bin/ts-node",
         "args": ["${relativeFile}"],
         "cwd": "${workspaceRoot}",
         "protocol": "inspector"
